@@ -7,7 +7,8 @@ You can help translate this cursedness at [Crowdin](https://crowdin.com/project/
 You can see some image examples of the changes on the "Gallery" tab.
 ## Also try
 Also try [Pridepack](https://modrinth.com/resourcepack/pridepack)
-Also try [Paladin's Furniture Mod](https://modrinth.com/mod/pfm)
+Also try [Paladin's Furniture Mod](https://modrinth.com/mod/paladins-furniture)
+Also try [XOF](https://modrinth.com/mod/xof)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0Njc2MDQ2N119
+eyJoaXN0b3J5IjpbMTAyNTM0MzYzXX0=
 -->
