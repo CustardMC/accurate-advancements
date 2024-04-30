@@ -1,6 +1,9 @@
 {
   "pack": {
-    "pack_format": 15,
-    "description": "Accurate Advancements 1.20"
-  }
+    "pack_format": 32,
+    "supported_formats": [
+      1,
+      99
+    ],
+    "description": ""Accurate Advancements by Custard
 }
